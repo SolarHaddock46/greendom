@@ -1,0 +1,1 @@
+{"soilhum_low_threshold": 20.0, "soilhum_high_threshold": 70.0, "airtemp_low_threshold": 27.0, "airtemp_high_threshold": 34.0, "airhum_low_threshold": 19.0, "airhum_high_threshold": 94.0, "ph_low_threshold": 5.0, "ph_high_threshold": 7.5, "luminance_low_threshold": 0.5, "buzzer_on": false, "pH_sensor_zero_shift": 0.2}
